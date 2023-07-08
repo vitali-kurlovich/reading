@@ -3,3 +3,4 @@
 3. [TypeScript 5.2's New Keyword: 'using'](https://www.totaltypescript.com/typescript-5-2-new-keyword-using)
 4. [Get a catch block error message with TypeScript](https://kentcdodds.com/blog/get-a-catch-block-error-message-with-typescript)
 5. [Go scheduler. Простыми словами](https://habr.com/ru/articles/743266/)
+6. [Initializing Large Static Maps in Go](https://www.dolthub.com/blog/2023-06-16-static-map-initialization-in-go/)
