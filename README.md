@@ -8,3 +8,5 @@
 8. [Go Server-sent events - A guide for sending messages to a specific user/client](https://dev.to/hadius/go-server-sent-events-2ng)
 9. [Продвинутый NumPy](https://uproger.com/prodvinutyj-numpy-ottachivajte-tryuki-s-shagami/)
 10. [How to Create Callback-like Behavior Using AsyncStream in Swift](https://swiftsenpai.com/swift/asyncstream-callback/)
+11. [Что делает ChatGPT… и почему это работает?](https://habr.com/ru/articles/739014/)
+12. [Machine Learning University (MLU)](https://mlu-explain.github.io/)
