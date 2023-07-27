@@ -11,7 +11,7 @@
 3. [Building a Real-Time Notification Service with Golang —A Golang Beginners Guide](https://medium.com/@mhrlife/building-a-real-time-notification-service-with-golang-golang-basics-92e0dcb48d4d)
 4. [Go Server-sent events - A guide for sending messages to a specific user/client](https://dev.to/hadius/go-server-sent-events-2ng)
 
-## Web HTTP, WebSockets etc
+## HTTP, WebSockets etc
 
 1. [Введение в потоковую передачу данных в Вебе](https://habr.com/ru/articles/744656/)
 
