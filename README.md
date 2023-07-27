@@ -11,3 +11,10 @@
 11. [Что делает ChatGPT… и почему это работает?](https://habr.com/ru/articles/739014/)
 12. [Machine Learning University (MLU)](https://mlu-explain.github.io/)
 13. [Ищем выбросы. Критерий Шовене](https://uproger.com/ishhem-vybrosy-kriterij-shovene/)
+
+
+## Switf DSL
+1. [Building DSLs in Swift](https://www.swiftbysundell.com/articles/building-dsls-in-swift/)
+2. [Using Swift’s Types as Domain-Specific Languages](https://betterprogramming.pub/using-swifts-types-as-domain-specific-languages-6f03b90fe218)
+3. [The Ultimate Domain Language: Declarative Swift](https://betterprogramming.pub/the-ultimate-domain-language-declarative-swift-37b0a04e4e32)
+4. [Domain-Language-Based Systems in Swift](https://betterprogramming.pub/domain-language-based-systems-in-swift-a9208999971e)
