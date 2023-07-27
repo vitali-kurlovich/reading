@@ -10,3 +10,4 @@
 10. [How to Create Callback-like Behavior Using AsyncStream in Swift](https://swiftsenpai.com/swift/asyncstream-callback/)
 11. [Что делает ChatGPT… и почему это работает?](https://habr.com/ru/articles/739014/)
 12. [Machine Learning University (MLU)](https://mlu-explain.github.io/)
+13. [Ищем выбросы. Критерий Шовене](https://uproger.com/ishhem-vybrosy-kriterij-shovene/)
