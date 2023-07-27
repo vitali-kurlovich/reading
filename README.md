@@ -14,6 +14,8 @@
 ## HTTP, WebSockets etc
 
 1. [Введение в потоковую передачу данных в Вебе](https://habr.com/ru/articles/744656/)
+2. [Немного о WebRTC: что где использовать и случай из практики](https://habr.com/ru/articles/501416/)
+3. [WebRTC API](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API)
 
 ## ML
 
