@@ -23,6 +23,7 @@
 2. [Ищем выбросы. Критерий Шовене](https://uproger.com/ishhem-vybrosy-kriterij-shovene/)
 3. [Что делает ChatGPT… и почему это работает?](https://habr.com/ru/articles/739014/)
 4. [Продвинутый NumPy](https://uproger.com/prodvinutyj-numpy-ottachivajte-tryuki-s-shagami/)
+5. [Sander Dieleman](https://sander.ai/posts/)
 
 ## Switf 
 
