@@ -24,6 +24,7 @@
 3. [Что делает ChatGPT… и почему это работает?](https://habr.com/ru/articles/739014/)
 4. [Продвинутый NumPy](https://uproger.com/prodvinutyj-numpy-ottachivajte-tryuki-s-shagami/)
 5. [Sander Dieleman](https://sander.ai/posts/)
+6. [PyTorch Tutorials](https://pytorch.org/tutorials/)
 
 ## Switf 
 
