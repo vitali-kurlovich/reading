@@ -10,6 +10,7 @@
 2. [Initializing Large Static Maps in Go](https://www.dolthub.com/blog/2023-06-16-static-map-initialization-in-go/)
 3. [Building a Real-Time Notification Service with Golang —A Golang Beginners Guide](https://medium.com/@mhrlife/building-a-real-time-notification-service-with-golang-golang-basics-92e0dcb48d4d)
 4. [Go Server-sent events - A guide for sending messages to a specific user/client](https://dev.to/hadius/go-server-sent-events-2ng)
+5. [Design resilient microservices in Golang](https://rkiselenko.dev/blog/resilient-microservice/)
 
 ## HTTP, WebSockets etc
 
