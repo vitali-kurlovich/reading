@@ -11,6 +11,7 @@
 3. [Building a Real-Time Notification Service with Golang —A Golang Beginners Guide](https://medium.com/@mhrlife/building-a-real-time-notification-service-with-golang-golang-basics-92e0dcb48d4d)
 4. [Go Server-sent events - A guide for sending messages to a specific user/client](https://dev.to/hadius/go-server-sent-events-2ng)
 5. [Design resilient microservices in Golang](https://rkiselenko.dev/blog/resilient-microservice/)
+6. [The Go Blog](https://go.dev/blog/)
 
 ## HTTP, WebSockets etc
 
@@ -34,3 +35,8 @@
 3. [The Ultimate Domain Language: Declarative Swift](https://betterprogramming.pub/the-ultimate-domain-language-declarative-swift-37b0a04e4e32)
 4. [Domain-Language-Based Systems in Swift](https://betterprogramming.pub/domain-language-based-systems-in-swift-a9208999971e)
 5. [How to Create Callback-like Behavior Using AsyncStream in Swift](https://swiftsenpai.com/swift/asyncstream-callback/)
+
+## Management
+
+1. [Process Mining. «Рентгеновская диагностика» бизнеса](https://habr.com/ru/companies/T1Holding/articles/756238/)
+
