@@ -35,6 +35,7 @@
 3. [The Ultimate Domain Language: Declarative Swift](https://betterprogramming.pub/the-ultimate-domain-language-declarative-swift-37b0a04e4e32)
 4. [Domain-Language-Based Systems in Swift](https://betterprogramming.pub/domain-language-based-systems-in-swift-a9208999971e)
 5. [How to Create Callback-like Behavior Using AsyncStream in Swift](https://swiftsenpai.com/swift/asyncstream-callback/)
+6. [Write a DSL in Swift using result builders](https://www.wwdcnotes.com/notes/wwdc21/10253/)
 
 ## Management
 
