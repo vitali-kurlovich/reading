@@ -12,6 +12,7 @@
 4. [Go Server-sent events - A guide for sending messages to a specific user/client](https://dev.to/hadius/go-server-sent-events-2ng)
 5. [Design resilient microservices in Golang](https://rkiselenko.dev/blog/resilient-microservice/)
 6. [The Go Blog](https://go.dev/blog/)
+7. [Slices Package: Contains, Delete, and Equal](https://www.ardanlabs.com/blog/2023/09/golang-slices-contains-delete-equal.html)
 
 ## HTTP, WebSockets etc
 
