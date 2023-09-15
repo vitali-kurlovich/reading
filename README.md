@@ -13,6 +13,7 @@
 5. [Design resilient microservices in Golang](https://rkiselenko.dev/blog/resilient-microservice/)
 6. [The Go Blog](https://go.dev/blog/)
 7. [Slices Package: Contains, Delete, and Equal](https://www.ardanlabs.com/blog/2023/09/golang-slices-contains-delete-equal.html)
+8. [Go 101](https://go101.org/article/101.html#index)
 
 ## HTTP, WebSockets etc
 
