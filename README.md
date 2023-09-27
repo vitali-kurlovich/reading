@@ -4,6 +4,7 @@
 2. [TypeScript 5.2's New Keyword: 'using'](https://www.totaltypescript.com/typescript-5-2-new-keyword-using)
 3. [Get a catch block error message with TypeScript](https://kentcdodds.com/blog/get-a-catch-block-error-message-with-typescript)
 4. [Перегрузка функций в TypeScript](https://habr.com/ru/companies/otus/articles/688270/)
+5. [JPEG and EXIF Data Manipulation in Javascript](https://getaround.tech/exif-data-manipulation-javascript/)
 
 # GO Lang
 
