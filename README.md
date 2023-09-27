@@ -31,6 +31,7 @@
 4. [Продвинутый NumPy](https://uproger.com/prodvinutyj-numpy-ottachivajte-tryuki-s-shagami/)
 5. [Sander Dieleman](https://sander.ai/posts/)
 6. [PyTorch Tutorials](https://pytorch.org/tutorials/)
+7. [Матирование изображений, или как получить фотореалистичный передний план](https://habr.com/ru/companies/sberdevices/articles/742528/)
 
 ## Switf 
 
