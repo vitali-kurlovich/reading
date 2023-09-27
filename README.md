@@ -16,6 +16,7 @@
 6. [The Go Blog](https://go.dev/blog/)
 7. [Slices Package: Contains, Delete, and Equal](https://www.ardanlabs.com/blog/2023/09/golang-slices-contains-delete-equal.html)
 8. [Go 101](https://go101.org/article/101.html#index)
+9. [6 Tips for Using Strings in Go](https://www.calhoun.io/6-tips-for-using-strings-in-go/)
 
 ## HTTP, WebSockets etc
 
@@ -41,6 +42,11 @@
 4. [Domain-Language-Based Systems in Swift](https://betterprogramming.pub/domain-language-based-systems-in-swift-a9208999971e)
 5. [How to Create Callback-like Behavior Using AsyncStream in Swift](https://swiftsenpai.com/swift/asyncstream-callback/)
 6. [Write a DSL in Swift using result builders](https://www.wwdcnotes.com/notes/wwdc21/10253/)
+
+
+## Algs
+1. [RSync на стероидах с поддержкой Windows](https://vk.com/@habr-rsync-na-steroidah-s-podderzhkoi-windows)
+
 
 ## Management
 
