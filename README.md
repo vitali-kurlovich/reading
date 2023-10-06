@@ -18,6 +18,10 @@
 8. [Go 101](https://go101.org/article/101.html#index)
 9. [6 Tips for Using Strings in Go](https://www.calhoun.io/6-tips-for-using-strings-in-go/)
 
+# RUST
+
+1. [The Rust Programming Language](https://doc.rust-lang.org/book/)
+
 ## HTTP, WebSockets etc
 
 1. [Введение в потоковую передачу данных в Вебе](https://habr.com/ru/articles/744656/)
