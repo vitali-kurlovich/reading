@@ -21,6 +21,7 @@
 # RUST
 
 1. [The Rust Programming Language](https://doc.rust-lang.org/book/)
+2. [The Cargo Book](https://doc.rust-lang.org/cargo/index.html)
 
 ## HTTP, WebSockets etc
 
