@@ -51,7 +51,13 @@
 
 
 ## Algs
+
 1. [RSync на стероидах с поддержкой Windows](https://vk.com/@habr-rsync-na-steroidah-s-podderzhkoi-windows)
+
+
+## UI/UX
+
+1. (Material Design)[https://m3.material.io/]
 
 
 ## Management
