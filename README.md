@@ -57,7 +57,7 @@
 
 ## UI/UX
 
-1. (Material Design)[https://m3.material.io/]
+1. [Material Design](https://m3.material.io/)
 
 
 ## Management
