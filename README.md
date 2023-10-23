@@ -54,6 +54,10 @@
 6. [Write a DSL in Swift using result builders](https://www.wwdcnotes.com/notes/wwdc21/10253/)
 
 
+## Flutter & Dart
+1. [Flutter documentation](https://docs.flutter.dev/)
+2. [Introduction to Dart](https://dart.dev/language)
+
 ## Algs
 
 1. [RSync на стероидах с поддержкой Windows](https://vk.com/@habr-rsync-na-steroidah-s-podderzhkoi-windows)
