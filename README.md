@@ -58,6 +58,7 @@
 ## Flutter & Dart
 1. [Flutter documentation](https://docs.flutter.dev/)
 2. [Introduction to Dart](https://dart.dev/language)
+3. [Riverpod](https://riverpod.dev/)
 
 ## Algs
 
