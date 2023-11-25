@@ -63,6 +63,7 @@
 ## Algs
 
 1. [RSync на стероидах с поддержкой Windows](https://vk.com/@habr-rsync-na-steroidah-s-podderzhkoi-windows)
+2. [DESIGN PATTERNS](https://refactoring.guru/design-patterns/)
 
 
 ## UI/UX
