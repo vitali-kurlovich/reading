@@ -53,6 +53,11 @@
 4. [Domain-Language-Based Systems in Swift](https://betterprogramming.pub/domain-language-based-systems-in-swift-a9208999971e)
 5. [How to Create Callback-like Behavior Using AsyncStream in Swift](https://swiftsenpai.com/swift/asyncstream-callback/)
 6. [Write a DSL in Swift using result builders](https://www.wwdcnotes.com/notes/wwdc21/10253/)
+7. [Macros](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/macros/)
+8. [SwiftData](https://developer.apple.com/documentation/SwiftData)
+9. [Core Data](https://developer.apple.com/documentation/coredata)
+10. [Combine](https://developer.apple.com/documentation/Combine)
+11. [HealthKit](https://developer.apple.com/documentation/healthkit)
 
 
 ## Flutter & Dart
