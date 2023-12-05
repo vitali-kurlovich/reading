@@ -59,6 +59,8 @@
 9. [Core Data](https://developer.apple.com/documentation/coredata)
 10. [Combine](https://developer.apple.com/documentation/Combine)
 11. [HealthKit](https://developer.apple.com/documentation/healthkit)
+12. [Authentication Services](https://developer.apple.com/documentation/authenticationservices)
+13. [Core Graphics](https://developer.apple.com/documentation/coregraphics)
 
 
 ## Flutter & Dart
