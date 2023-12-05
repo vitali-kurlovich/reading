@@ -68,6 +68,7 @@
 1. [Flutter documentation](https://docs.flutter.dev/)
 2. [Introduction to Dart](https://dart.dev/language)
 3. [Riverpod](https://riverpod.dev/)
+4. [Использование Provider, Riverpod, Bloc(Cubit), Redux, MobX на одном простом примере](https://habr.com/ru/articles/747062/)
 
 ## Algs
 
