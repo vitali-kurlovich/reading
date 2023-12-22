@@ -45,6 +45,7 @@
 6. [PyTorch Tutorials](https://pytorch.org/tutorials/)
 7. [Матирование изображений, или как получить фотореалистичный передний план](https://habr.com/ru/companies/sberdevices/articles/742528/)
 8. [О новом простом методе снижения высокой размерности данных](https://habr.com/ru/companies/skillfactory/articles/683498/)
+9. [LSTM и GRU](https://habr.com/ru/companies/mvideo/articles/780774/)
 
 ## Switf 
 
