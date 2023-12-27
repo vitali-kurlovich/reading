@@ -81,6 +81,7 @@
 3. [OpenID Connect простыми словами](https://habr.com/ru/companies/nixys/articles/566910/)
 4. [What is OpenID Connect](https://openid.net/developers/how-connect-works/)
 5. [OAuth 2.0 explained](https://connect2id.com/learn/oauth-2)
+6. [Почему B-деревья быстрые?](https://habr.com/ru/articles/783012/)
 
 ## UI/UX
 
