@@ -47,6 +47,7 @@
 7. [Матирование изображений, или как получить фотореалистичный передний план](https://habr.com/ru/companies/sberdevices/articles/742528/)
 8. [О новом простом методе снижения высокой размерности данных](https://habr.com/ru/companies/skillfactory/articles/683498/)
 9. [LSTM и GRU](https://habr.com/ru/companies/mvideo/articles/780774/)
+10. [Многорукие бандиты в задаче ритейла](https://habr.com/ru/companies/X5Tech/articles/783390/)
 
 ## Switf 
 
